@@ -1375,8 +1375,10 @@
   },
   "DOCUMENT_IS_PHOTOCOPY": {
     "name": "DOCUMENT_IS_PHOTOCOPY",
-    "code": 8471,
-    "description": {},
+    "code": 8482,
+    "description": {
+      "en": "Document is photocopy"
+    },
     "status": "200"
   },
   "REFRESH_TOKEN_INVALID": {
@@ -1426,6 +1428,102 @@
     "code": 8478,
     "description": {
       "en": "Passport validations failed"
+    },
+    "status": "200"
+  },
+  "CIVILID_FRONT_IS_PHOTOCOPY": {
+    "name": "CIVILID_FRONT_IS_PHOTOCOPY",
+    "code": 8479,
+    "description": {
+      "en": "CivilId front side is photocopy"
+    },
+    "status": "200"
+  },
+  "CIVILID_BACK_IS_PHOTOCOPY": {
+    "name": "CIVILID_BACK_IS_PHOTOCOPY",
+    "code": 8480,
+    "description": {
+      "en": "CivilId back side is photocopy"
+    },
+    "status": "200"
+  },
+  "PASSPORT_IS_PHOTOCOPY": {
+    "name": "PASSPORT_IS_PHOTOCOPY",
+    "code": 8481,
+    "description": {
+      "en": "Passport is photocopy"
+    },
+    "status": "200"
+  },
+  "CUSTOMER_PROFILEID_REQUIRED": {
+    "name": "CUSTOMER_PROFILEID_REQUIRED",
+    "code": 8483,
+    "description": {
+      "en": "Customer profileId is required"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_EXPIRY_NOT_AVAILABLE": {
+    "name": "CIVIL_ID_EXPIRY_NOT_AVAILABLE",
+    "code": 8484,
+    "description": {
+      "en": "CivilId Expiry value is empty"
+    },
+    "status": "200"
+  },
+  "CORE_BANK_GENERATE_TOKEN_REQUEST_FAILED": {
+    "name": "CORE_BANK_GENERATE_TOKEN_REQUEST_FAILED",
+    "code": 8485,
+    "description": {
+      "en": "Generate token bank api request failed"
+    },
+    "status": "200"
+  },
+  "GENERATE_BANK_TOKEN_FAILED": {
+    "name": "GENERATE_BANK_TOKEN_FAILED",
+    "code": 8486,
+    "description": {
+      "en": "Generate token request failed"
+    },
+    "status": "200"
+  },
+  "CORE_BANK_VERIFY_DOB_REQUEST_FAILED": {
+    "name": "CORE_BANK_VERIFY_DOB_REQUEST_FAILED",
+    "code": 8487,
+    "description": {
+      "en": "Verify dob bank api request failed"
+    },
+    "status": "200"
+  },
+  "CORE_BANK_GET_DOCUMENTS_FAILED": {
+    "name": "CORE_BANK_GET_DOCUMENTS_FAILED",
+    "code": 8488,
+    "description": {
+      "en": "get documents bank api request failed"
+    },
+    "status": "200"
+  },
+  "CORE_BANK_UPLOAD_DOCUMENTS_FAILED": {
+    "name": "CORE_BANK_UPLOAD_DOCUMENTS_FAILED",
+    "code": 8489,
+    "description": {
+      "en": "Upload documents bank api request failed"
+    },
+    "status": "200"
+  },
+  "CUSTOMER_DOB_REQUEST_NOT_VERIFIED": {
+    "name": "CUSTOMER_DOB_REQUEST_NOT_VERIFIED",
+    "code": 8490,
+    "description": {
+      "en": "Customer's DOB Request is not verified"
+    },
+    "status": "200"
+  },
+  "DOCUMENT_NOT_FOUND": {
+    "name": "DOCUMENT_NOT_FOUND",
+    "code": 8491,
+    "description": {
+      "en": "Bank document is not found"
     },
     "status": "200"
   }
