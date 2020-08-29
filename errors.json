@@ -1526,5 +1526,77 @@
       "en": "Bank document is not found"
     },
     "status": "200"
+  },
+  "DOCUMENTS_NOT_EXIST": {
+    "name": "DOCUMENTS_NOT_EXIST",
+    "code": 8492,
+    "description": {
+      "en": "Documents do not exist"
+    },
+    "status": "200"
+  },
+  "SESSION_NOT_FOUND": {
+    "name": "SESSION_NOT_FOUND",
+    "code": 8493,
+    "description": {
+      "en": "There is no session for this customer at the moment"
+    },
+    "status": "200"
+  },
+  "INVALID_REQUEST_BODY": {
+    "name": "INVALID_REQUEST_BODY",
+    "code": 8494,
+    "description": {
+      "en": "Request body is not correct"
+    },
+    "status": "200"
+  },
+  "RESOURCE_NOT_ALLOWED": {
+    "name": "RESOURCE_NOT_ALLOWED",
+    "code": 8495,
+    "description": {
+      "en": "User does not have permission to access this resource"
+    },
+    "status": "200"
+  },
+  "SESSION_ID_INVALID": {
+    "name": "SESSION_ID_INVALID",
+    "code": 8496,
+    "description": {
+      "en": "Customer's Session Id is invalid"
+    },
+    "status": "200"
+  },
+  "INVALID_CUSTOMER_ID": {
+    "name": "INVALID_CUSTOMER_ID",
+    "code": 8497,
+    "description": {
+      "en": "Customer Id is not valid"
+    },
+    "status": "200"
+  },
+  "UPLOAD_FILE_ERROR": {
+    "name": "UPLOAD_FILE_ERROR",
+    "code": 8498,
+    "description": {
+      "en": "Error occurred while uploading file"
+    },
+    "status": "200"
+  },
+  "GET_FILE_ERROR": {
+    "name": "GET_FILE_ERROR",
+    "code": 8499,
+    "description": {
+      "en": "Error occurred while downloading file"
+    },
+    "status": "200"
+  },
+  "CORE_BANK_REFRESH_TOKEN_FAILED": {
+    "name": "CORE_BANK_REFRESH_TOKEN_FAILED",
+    "code": 8500,
+    "description": {
+      "en": "Bank's refresh token api failed"
+    },
+    "status": "200"
   }
 }
