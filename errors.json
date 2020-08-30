@@ -1598,5 +1598,45 @@
       "en": "Bank's refresh token api failed"
     },
     "status": "200"
+  },
+  "ERR_ATTACHMENT_SERVICE": {
+    "name": "ERR_ATTACHMENT_SERVICE",
+    "code": 8501,
+    "description": {
+      "en": "System cannot process the request"
+    },
+    "status": "200"
+  },
+  "ERR_BBYN_SERVICE": {
+    "name": "ERR_BBYN_SERVICE",
+    "code": 8502,
+    "description": {
+      "en": "System cannot process the request"
+    },
+    "status": "200"
+  },
+  "ERR_DOCS_SERVICE": {
+    "name": "ERR_DOCS_SERVICE",
+    "code": 8503,
+    "description": {
+      "en": "System cannot process the request"
+    },
+    "status": "200"
+  },
+  "ERR_GATEWAY_SERVICE": {
+    "name": "ERR_GATEWAY_SERVICE",
+    "code": 8504,
+    "description": {
+      "en": "System cannot process the request"
+    },
+    "status": "200"
+  },
+  "INVALID_PDF_PAGE_NUMBER": {
+    "name": "INVALID_PDF_PAGE_NUMBER",
+    "code": 8505,
+    "description": {
+      "en": "Pdf does not contain the required page number"
+    },
+    "status": "200"
   }
 }
