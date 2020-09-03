@@ -1643,7 +1643,7 @@
     "name": "INVALID_PARAMS",
     "code": 8506,
     "description": {
-      "en": "Parameter which are provided is either incorrect of missing"
+      "en": "Parameters which are provided is either incorrect or missing"
     },
     "status": "200"
   }
