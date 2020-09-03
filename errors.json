@@ -1646,5 +1646,29 @@
       "en": "Parameters which are provided is either incorrect or missing"
     },
     "status": "200"
+  },
+  "EVALUATION_MISMATCH_LIVENESS": {
+    "name": "EVALUATION_MISMATCH_LIVENESS",
+    "code": 8507,
+    "description": {
+      "en": "Liveness Mismatched"
+    },
+    "status": "200"
+  },
+  "EVALUATION_MISMATCH_CIVIL_ID": {
+    "name": "EVALUATION_MISMATCH_CIVIL_ID",
+    "code": 8508,
+    "description": {
+      "en": "Civil Id Mismatched"
+    },
+    "status": "200"
+  },
+  "EVALUATION_MISMATCH_PASSPORT": {
+    "name": "EVALUATION_MISMATCH_PASSPORT",
+    "code": 8509,
+    "description": {
+      "en": "Passport Mismatched"
+    },
+    "status": "200"
   }
 }
