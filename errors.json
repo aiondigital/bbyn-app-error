@@ -4,7 +4,7 @@
     "code": 9001,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية\r\r\n"
+      "ar": "أيون الرقمية_x000D_\n"
     },
     "status": "200"
   },
@@ -1205,7 +1205,7 @@
     "description": {},
     "status": "200"
   },
-  "       ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION\r\r\n": {
+  "       ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION_x000D_\n": {
     "name": "      ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION",
     "code": 6504,
     "description": {},
@@ -1636,6 +1636,14 @@
     "code": 8505,
     "description": {
       "en": "Pdf does not contain the required page number"
+    },
+    "status": "200"
+  },
+  "INVALID_PARAMS": {
+    "name": "INVALID_PARAMS",
+    "code": 8506,
+    "description": {
+      "en": "Parameter which are provided is either incorrect of missing"
     },
     "status": "200"
   }
