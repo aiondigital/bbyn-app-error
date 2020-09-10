@@ -1670,5 +1670,13 @@
       "en": "Passport Mismatched"
     },
     "status": "200"
+  },
+  "ERR_AUTHORITY_SERVICE": {
+    "name": "ERR_AUTHORITY_SERVICE",
+    "code": 8510,
+    "description": {
+      "en": "System cannot process the request"
+    },
+    "status": "200"
   }
 }
