@@ -4,7 +4,7 @@
     "code": 9001,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية_x000D_\n"
+      "ar": "أيون الرقمية\r\r\n"
     },
     "status": "200"
   },
@@ -1205,7 +1205,7 @@
     "description": {},
     "status": "200"
   },
-  "       ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION_x000D_\n": {
+  "       ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION\r\r\n": {
     "name": "      ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION",
     "code": 6504,
     "description": {},
@@ -1676,6 +1676,14 @@
     "code": 8510,
     "description": {
       "en": "System cannot process the request"
+    },
+    "status": "200"
+  },
+  "EVALUATION_FAILD": {
+    "name": "EVALUATION_FAILD",
+    "code": 8511,
+    "description": {
+      "en": "Evaluation request failed"
     },
     "status": "200"
   }
