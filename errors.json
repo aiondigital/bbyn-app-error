@@ -1686,5 +1686,13 @@
       "en": "Evaluation request failed"
     },
     "status": "200"
+  },
+  "EVALUATION_PHOTO_REPLACED": {
+    "name": "EVALUATION_PHOTO_REPLACED",
+    "code": 8512,
+    "description": {
+      "en": "Upload document(s) is forgered"
+    },
+    "status": "200"
   }
 }
