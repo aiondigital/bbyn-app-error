@@ -1691,7 +1691,15 @@
     "name": "EVALUATION_PHOTO_REPLACED",
     "code": 8512,
     "description": {
-      "en": "Upload document(s) is forgered"
+      "en": "Upload document(s) is forged"
+    },
+    "status": "200"
+  },
+  "EVALUATION_MISMATCH_TRUSTED_SOURCE": {
+    "name": "EVALUATION_MISMATCH_TRUSTED_SOURCE",
+    "code": 8513,
+    "description": {
+      "en": "Evaluation mismatch with trusted source photo"
     },
     "status": "200"
   }
