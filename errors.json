@@ -1702,5 +1702,13 @@
       "en": "Evaluation mismatch with trusted source photo"
     },
     "status": "200"
+  },
+  "IDENTITYX_MULTIPLE_SELFIE_NOT_ALLOWED": {
+    "name": "IDENTITYX_MULTIPLE_SELFIE_NOT_ALLOWED",
+    "code": 8514,
+    "description": {
+      "en": "Multiple selfie uploading is not allowed"
+    },
+    "status": "200"
   }
 }
