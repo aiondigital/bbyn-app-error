@@ -4,7 +4,7 @@
     "code": 9001,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية\r\r\n"
+      "ar": "النظام غير قادر على معالجة الطلب"
     },
     "status": "200"
   },
@@ -22,7 +22,7 @@
     "code": 9003,
     "description": {
       "en": "Email can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "البريد الإلكتروني لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -31,7 +31,7 @@
     "code": 9004,
     "description": {
       "en": "Phone number can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "رقم الهاتف لا يمكن أن يكون فارغًا"
     },
     "status": "200"
   },
@@ -40,7 +40,7 @@
     "code": 9005,
     "description": {
       "en": "Username can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "رقم الهاتف لا يمكن أن يكون فارغًا"
     },
     "status": "200"
   },
@@ -49,7 +49,7 @@
     "code": 9007,
     "description": {
       "en": "The password does not meet the  password policy requirements.",
-      "ar": "أيون الرقمية"
+      "ar": "كلمة المرور لا تتوافق مع متطلبات سياسة كلمة المرور"
     },
     "status": "200"
   },
@@ -58,7 +58,7 @@
     "code": 9008,
     "description": {
       "en": "Password can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن ترك كلمة المرور فارغة"
     },
     "status": "200"
   },
@@ -76,7 +76,7 @@
     "code": 9010,
     "description": {
       "en": "Username does not match our username policy.",
-      "ar": "أيون الرقمية"
+      "ar": "اسم المستخدم لا يتوافق مع سياسة اسم المستخدم لدينا."
     },
     "status": "200"
   },
@@ -94,7 +94,7 @@
     "code": 9012,
     "description": {
       "en": "The phone number is  invalid",
-      "ar": "أيون الرقمية"
+      "ar": "رقم الهاتف غير صالح"
     },
     "status": "200"
   },
@@ -103,7 +103,7 @@
     "code": 9014,
     "description": {
       "en": "First name length exceed the maximum limit of chatacters allowed",
-      "ar": "أيون الرقمية"
+      "ar": "تجاوز طول الاسم الأول الحد الأقصى المسموح به"
     },
     "status": "200"
   },
@@ -112,7 +112,7 @@
     "code": 9015,
     "description": {
       "en": "Last name length exceed the maximum limit of chatacters allowed",
-      "ar": "أيون الرقمية"
+      "ar": "تجاوز طول الاسم الأخير الحد الأقصى المسموح به"
     },
     "status": "200"
   },
@@ -121,7 +121,7 @@
     "code": 9016,
     "description": {
       "en": "Full name length exceed the maximum limit of chatacters allowed",
-      "ar": "أيون الرقمية"
+      "ar": "تجاوز طول الاسم الكامل الحد الأقصى المسموح به"
     },
     "status": "200"
   },
@@ -130,7 +130,7 @@
     "code": 9017,
     "description": {
       "en": "The date of birth is invalid",
-      "ar": "أيون الرقمية"
+      "ar": "تاريخ الميلاد غير صالح"
     },
     "status": "200"
   },
@@ -139,7 +139,7 @@
     "code": 9018,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية"
+      "ar": "النظام لا يستطيع معالجة الطلب"
     },
     "status": "200"
   },
@@ -147,7 +147,8 @@
     "name": "CUSTOMER_MOBILENUMBER_BASE",
     "code": 9019,
     "description": {
-      "en": "Must be a Kuwait mobile"
+      "en": "Must be a Kuwait mobile",
+      "ar": "يجب أن يكون رقم الجوال  كويتي"
     },
     "status": "200"
   },
@@ -156,7 +157,7 @@
     "code": 9020,
     "description": {
       "en": "The country is invalid",
-      "ar": "أيون الرقمية"
+      "ar": "البلد غير صالح"
     },
     "status": "200"
   },
@@ -165,7 +166,7 @@
     "code": 9021,
     "description": {
       "en": "The address type is invalid",
-      "ar": "أيون الرقمية"
+      "ar": "نوع العنوان غير صالح"
     },
     "status": "200"
   },
@@ -174,7 +175,7 @@
     "code": 9022,
     "description": {
       "en": "The uid is invalid",
-      "ar": "أيون الرقمية"
+      "ar": "المعرف غير صالح"
     },
     "status": "200"
   },
@@ -183,7 +184,7 @@
     "code": 9023,
     "description": {
       "en": " Address can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن ترك حقل العنوان فارغًا."
     },
     "status": "200"
   },
@@ -192,7 +193,7 @@
     "code": 9024,
     "description": {
       "en": "Address type can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن ترك نوع العنوان فارغًا."
     },
     "status": "200"
   },
@@ -201,7 +202,7 @@
     "code": 9025,
     "description": {
       "en": "uid can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن ترك معرف المستخدم فارغًا."
     },
     "status": "200"
   },
@@ -210,7 +211,7 @@
     "code": 9026,
     "description": {
       "en": "uid is invalid",
-      "ar": "أيون الرقمية"
+      "ar": "معرف المستخدم غير صالح."
     },
     "status": "200"
   },
@@ -219,7 +220,7 @@
     "code": 9027,
     "description": {
       "en": "Customer with this username already exist.",
-      "ar": "أيون الرقمية"
+      "ar": "العميل بهذا الاسم موجود بالفعل."
     },
     "status": "200"
   },
@@ -228,7 +229,7 @@
     "code": 9029,
     "description": {
       "en": "Authorization Token can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن ترك رمز التفويض فارغًا."
     },
     "status": "200"
   },
@@ -236,8 +237,8 @@
     "name": "AUTH_TOKEN_REQUIRED",
     "code": 9029,
     "description": {
-      "en": "Authorization Token can not be blank.",
-      "ar": "أيون الرقمية"
+      "en": "Customer Authorization Token can not be blank.",
+      "ar": "لا يمكن ترك رمز تفويض العميل فارغًا."
     },
     "status": "200"
   },
@@ -246,7 +247,7 @@
     "code": 9031,
     "description": {
       "en": "Username can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن ترك اسم المستخدم فارغًا."
     },
     "status": "200"
   },
@@ -255,7 +256,7 @@
     "code": 5003,
     "description": {
       "en": "Password can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن تكون كلمة المرور فارغة."
     },
     "status": "200"
   },
@@ -263,7 +264,8 @@
     "name": "ADDRESSABLEID_REQUIRED",
     "code": 9033,
     "description": {
-      "en": "Addressable id can not be blank."
+      "en": "Addressable id can not be blank.",
+      "ar": "يجب ألا يكون معرف العنوان فارغًا."
     },
     "status": "200"
   },
@@ -271,7 +273,8 @@
     "name": "ADDRESSABLETYPE_REQUIRED",
     "code": 9034,
     "description": {
-      "en": "Addressable type can not be blank."
+      "en": "Addressable type can not be blank.",
+      "ar": "يجب ألا يكون نوع العنوان فارغًا."
     },
     "status": "200"
   },
@@ -279,7 +282,8 @@
     "name": "ADDRESSABLETYPE_ALLOWONLY",
     "code": 9035,
     "description": {
-      "en": "Addressable type must be one of [CT_CUSTOMER]"
+      "en": "Addressable type must be one of [CT_CUSTOMER]",
+      "ar": "يجب أن يكون نوع العنوان واحدًا من [CT_CUSTOMER]"
     },
     "status": "200"
   },
@@ -287,7 +291,8 @@
     "name": "ADDRESS_COUNTRY_INVALID",
     "code": 9036,
     "description": {
-      "en": "Country must be one of [KW]"
+      "en": "Country must be one of [KW]",
+      "ar": "يجب أن يكون البلد واحدًا من [KW]"
     },
     "status": "200"
   },
@@ -295,7 +300,8 @@
     "name": "ADDRESS_TYPE_INVALID",
     "code": 9037,
     "description": {
-      "en": "Address type must be one of [secondary, primary]"
+      "en": "Address type must be one of [secondary, primary]",
+      "ar": "يجب أن يكون نوع العنوان واحدًا من [secondary, primary]"
     },
     "status": "200"
   },
@@ -303,7 +309,8 @@
     "name": "INVALID_ADDRESSABLE_ENTITY",
     "code": 9038,
     "description": {
-      "en": "Addressable_id or Addressable_type is not valid."
+      "en": "Addressable_id or Addressable_type is not valid.",
+      "ar": "رقم العنوان أو نوع العنوان غير صالح."
     },
     "status": "200"
   },
@@ -311,7 +318,8 @@
     "name": "CUSTOMER_PASSWORD_INVALID",
     "code": 9039,
     "description": {
-      "en": "Customer password does not match password policy."
+      "en": "Customer password does not match password policy.",
+      "ar": "كلمة مرور العميل لا تتطابق مع سياسة كلمة المرور."
     },
     "status": "200"
   },
@@ -319,7 +327,8 @@
     "name": "CUSTOMER_USERNAME_INVALID",
     "code": 9040,
     "description": {
-      "en": "Username does not match our username policy."
+      "en": "Username does not match our username policy.",
+      "ar": "اسم المستخدم لا يتطابق مع سياسة اسم المستخدم لدينا."
     },
     "status": "200"
   },
@@ -327,7 +336,8 @@
     "name": "INVALID_CUSTOMER_CREDENTIAL",
     "code": 9041,
     "description": {
-      "en": "You need to provide valid credential to resume the process."
+      "en": "You need to provide valid credential to resume the process.",
+      "ar": "يجب عليك تقديم اعتماد صالح لاستئناف العملية."
     },
     "status": "200"
   },
@@ -335,7 +345,8 @@
     "name": "RESUMPTION_MOBILENUMBER_REQUIRED",
     "code": 9042,
     "description": {
-      "en": "You need to provide valid mobile number to resume the process."
+      "en": "You need to provide a valid mobile number to resume the process.",
+      "ar": "يجب عليك تقديم رقم هاتف محمول صالح لاستئناف العملية."
     },
     "status": "200"
   },
@@ -343,7 +354,8 @@
     "name": "CUSTOMER_USER_NAME_REQUIRED",
     "code": 9043,
     "description": {
-      "en": "Customer use name can not be blank."
+      "en": "Customer use name can not be blank.",
+      "ar": "اسم المستخدم الخاص بالعميل لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -351,7 +363,8 @@
     "name": "CUSTOMER_MOBILE_NUMBER_REQUIRED",
     "code": 9044,
     "description": {
-      "en": "Customer mobile number can not be blank."
+      "en": "Customer mobile number can not be blank.",
+      "ar": "رقم الهاتف المحمول للعميل لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -360,7 +373,7 @@
     "code": 4001,
     "description": {
       "en": "KFH Customer ID can not be blank.",
-      "ar": "لم نتمكن من العثور على معرف عميل بيتك."
+      "ar": "لا يمكن ترك معرف العميل في بنك الكويت الوطني فارغًا."
     },
     "status": "200"
   },
@@ -368,12 +381,9 @@
     "name": "INVALID_USERNAME_OR_PASSWORD",
     "code": 9046,
     "description": {
-      "en": "Invalid username or password."
+      "en": "Invalid username or password.",
+      "ar": "اسم المستخدم أو كلمة المرور غير صحيحة."
     },
-    "status": "200"
-  },
-  "undefined": {
-    "description": {},
     "status": "200"
   },
   "ERR_IDENTITYX_SERVICE": {
@@ -381,7 +391,7 @@
     "code": 8000,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن للنظام معالجة الطلب"
     },
     "status": "200"
   },
@@ -390,7 +400,7 @@
     "code": 8001,
     "description": {
       "en": "User id can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "رقم المستخدم لا يمكن أن يكون فارغًا"
     },
     "status": "200"
   },
@@ -399,7 +409,7 @@
     "code": 8002,
     "description": {
       "en": "User id must be a valid GUID",
-      "ar": "أيون الرقمية"
+      "ar": "رقم المستخدم يجب أن يكون معرف GUID صالح"
     },
     "status": "200"
   },
@@ -426,7 +436,7 @@
     "code": 8005,
     "description": {
       "en": "Format type can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن ترك نوع التنسيق فارغًا."
     },
     "status": "200"
   },
@@ -462,7 +472,7 @@
     "code": 8010,
     "description": {
       "en": "Type can only be one of [civilId-back, selfie, civilId-front]",
-      "ar": "أيون الرقمية"
+      "ar": "يمكن أن يكون النوع فقط أحد [civilId-back، selfie، civilId-front]"
     },
     "status": "200"
   },
@@ -488,7 +498,8 @@
     "name": "MUST_BE_KUWAIT_CIVIL_ID",
     "code": 8013,
     "description": {
-      "en": "Must be Kuwait Civil ID"
+      "en": "Must be Kuwait Civil ID",
+      "ar": "يجب أن يكون الهوية المدنية الكويتية"
     },
     "status": "200"
   },
@@ -496,27 +507,35 @@
     "name": "INVALID_CIVIL_ID_CARD",
     "code": 8014,
     "description": {
-      "en": "Invalid Civil id card"
+      "en": "Invalid Civil id card",
+      "ar": "بطاقة هوية مدنية غير صالحة"
     },
     "status": "200"
   },
   "CIVIL_ID_BACK_PROCESSING_FAILED": {
     "name": "CIVIL_ID_BACK_PROCESSING_FAILED",
     "code": 8015,
-    "description": {},
+    "description": {
+      "en": "Processing of the Back of the Civil id card failed",
+      "ar": "فشل معالجة الجهة الخلفية لبطاقة الهوية المدنية"
+    },
     "status": "200"
   },
   "CIVIL_ID_FRONT_PROCESSING_FAILED": {
     "name": "CIVIL_ID_FRONT_PROCESSING_FAILED",
     "code": 8016,
-    "description": {},
+    "description": {
+      "en": "Processing of the front of the Civil id card failed",
+      "ar": "فشل معالجة الجهة الأمامية لبطاقة الهوية المدنية"
+    },
     "status": "200"
   },
   "CUSTOMER_CIVIL_ID_MISMATCH": {
     "name": "CUSTOMER_CIVIL_ID_MISMATCH",
     "code": 8017,
     "description": {
-      "en": "Civil id front side doesn't match with the back side of the civil id card."
+      "en": "Civil id front side doesn't match with the back side of the civil id card.",
+      "ar": "الجهة الأمامية لبطاقة الهوية المدنية لا تتطابق مع الجهة الخلفية للبطاقة"
     },
     "status": "200"
   },
@@ -525,7 +544,7 @@
     "code": 1000,
     "description": {
       "en": " Resource Path is invalid",
-      "ar": "أيون الرقمية"
+      "ar": "مسار المورد غير صالح"
     },
     "status": "200"
   },
@@ -534,7 +553,7 @@
     "code": 1001,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية"
+      "ar": "النظام غير قادر على معالجة الطلب"
     },
     "status": "200"
   },
@@ -543,7 +562,7 @@
     "code": 1002,
     "description": {
       "en": "x-trans-id is required in the header.",
-      "ar": "أيون الرقمية"
+      "ar": "يتطلب x-trans-id في الرأس."
     },
     "status": "200"
   },
@@ -552,7 +571,7 @@
     "code": 1003,
     "description": {
       "en": "Content type can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "نوع المحتوى لا يمكن أن يكون فارغًا"
     },
     "status": "200"
   },
@@ -561,7 +580,7 @@
     "code": 1004,
     "description": {
       "en": "The token is invalid",
-      "ar": "أيون الرقمية"
+      "ar": "الرمز غير صالح"
     },
     "status": "200"
   },
@@ -569,7 +588,8 @@
     "name": "CUSTOMER_FRONT_CIVIL_ID_MISSING",
     "code": 7006,
     "description": {
-      "en": "Front civil id is missing"
+      "en": "Front civil id is missing",
+      "ar": "الهوية المدنية الأمامية مفقودة"
     },
     "status": "200"
   },
@@ -585,7 +605,10 @@
   "INVALID_OTP_CODE": {
     "name": "INVALID_OTP_CODE",
     "code": 8462,
-    "description": {},
+    "description": {
+      "en": "The OTP code is invalid",
+      "ar": "رمز OTP غير صالح"
+    },
     "status": "200"
   },
   "ERR_EMAIL_SERVICE": {
@@ -602,7 +625,7 @@
     "code": 7003,
     "description": {
       "en": "Email is already verified.",
-      "ar": "أيون الرقمية"
+      "ar": "البريد الإلكتروني تم التحقق منه بالفعل."
     },
     "status": "200"
   },
@@ -611,7 +634,7 @@
     "code": 7004,
     "description": {
       "en": "Customer selfie is missing",
-      "ar": "أيون الرقمية"
+      "ar": "صورة السيلفي الخاصة بالعميل مفقودة"
     },
     "status": "200"
   },
@@ -620,38 +643,53 @@
     "code": 7005,
     "description": {
       "en": "Selfie can not be blank. Please try again.",
-      "ar": "لم نتمكن من العثور على صورة السيلفي. يرجى المحاولة مرة أخرى."
+      "ar": "السيلفي لا يمكن أن يكون فارغًا. يرجى المحاولة مرة أخرى."
     },
     "status": "200"
   },
   "CUSTOMER_SELFIE_INVALID": {
     "name": "CUSTOMER_SELFIE_INVALID",
     "code": 7006,
-    "description": {},
+    "description": {
+      "en": "Customer selfie is invalid",
+      "ar": "صورة السيلفي الخاصة بالعميل غير صالحة"
+    },
     "status": "200"
   },
   "CUSTOMER_CIVIL_ID_FRONT_MISSING": {
     "name": "CUSTOMER_CIVIL_ID_FRONT_MISSING",
     "code": 7007,
-    "description": {},
+    "description": {
+      "en": "Customer Civil ID front is missing",
+      "ar": "الهوية المدنية الأمامية للعميل مفقودة"
+    },
     "status": "200"
   },
   "CUSTOMER_CIVIL_ID_BACK_MISSING": {
     "name": "CUSTOMER_CIVIL_ID_BACK_MISSING",
     "code": 7008,
-    "description": {},
+    "description": {
+      "en": "Customer Civil ID back is missing",
+      "ar": "الهوية المدنية الخلفية للعميل مفقودة"
+    },
     "status": "200"
   },
   "CUSTOMER_VERIFY_VIA_VIDEO": {
     "name": "CUSTOMER_VERIFY_VIA_VIDEO",
     "code": 7009,
-    "description": {},
+    "description": {
+      "en": "Customer verify via video",
+      "ar": "التحقق من العميل عبر الفيديو"
+    },
     "status": "200"
   },
   "CUSTMER_SELFIE_UNMATCHED": {
     "name": "CUSTMER_SELFIE_UNMATCHED",
     "code": 7010,
-    "description": {},
+    "description": {
+      "en": "Customer selfie unmatched",
+      "ar": "صورة السيلفي للعميل غير متطابقة"
+    },
     "status": "200"
   },
   "CUSTOMER_LIVENESS_INVALID": {
@@ -659,7 +697,7 @@
     "code": 7011,
     "description": {
       "en": "We're unable to recognize Liveness photo. Please try again.",
-      "ar": "لم نتمكن من التعرف على صورة التحقق. يرجى المحاولة مرة أخرى."
+      "ar": "لا يمكننا التعرف على صورة التحقق من الحيوية. يرجى المحاولة مرة أخرى."
     },
     "status": "200"
   },
@@ -668,7 +706,7 @@
     "code": 1000,
     "description": {
       "en": "Invalid request to update the record.",
-      "ar": "أيون الرقمية"
+      "ar": "طلب تحديث السجل غير صالح."
     },
     "status": "200"
   },
@@ -677,7 +715,7 @@
     "code": 1001,
     "description": {
       "en": "Invalid request to delete the record.",
-      "ar": "أيون الرقمية"
+      "ar": "طلب غير صالح لحذف السجل."
     },
     "status": "200"
   },
@@ -686,7 +724,7 @@
     "code": 5000,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية"
+      "ar": "النظام غير قادر على معالجة الطلب."
     },
     "status": "200"
   },
@@ -694,7 +732,8 @@
     "name": "USER_NAME_EXIST",
     "code": 7012,
     "description": {
-      "en": "Username can't be duplicate"
+      "en": "Username can't be duplicate",
+      "ar": "لا يمكن تكرار اسم المستخدم"
     },
     "status": "200"
   },
@@ -703,7 +742,7 @@
     "code": 5001,
     "description": {
       "en": "ascUser can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "ascUser لا يمكن أن يكون فارغًا"
     },
     "status": "200"
   },
@@ -712,7 +751,7 @@
     "code": 5002,
     "description": {
       "en": "Username can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "اسم المستخدم لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -721,7 +760,7 @@
     "code": 5004,
     "description": {
       "en": "First name can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون الاسم الأول فارغًا."
     },
     "status": "200"
   },
@@ -730,7 +769,7 @@
     "code": 5005,
     "description": {
       "en": "Last name can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون الاسم الأخير فارغًا."
     },
     "status": "200"
   },
@@ -739,7 +778,7 @@
     "code": 5006,
     "description": {
       "en": "Status can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون الحالة فارغة"
     },
     "status": "200"
   },
@@ -748,7 +787,7 @@
     "code": 5007,
     "description": {
       "en": "User name length must be at least 5 characters long.",
-      "ar": "أيون الرقمية"
+      "ar": "يجب أن يكون طول اسم المستخدم على الأقل 5 أحرف."
     },
     "status": "200"
   },
@@ -757,7 +796,7 @@
     "code": 5008,
     "description": {
       "en": "User name length must be less than or equal to 20 characters long.",
-      "ar": "أيون الرقمية"
+      "ar": "يجب أن يكون طول اسم المستخدم أقل من أو يساوي 20 حرفًا."
     },
     "status": "200"
   },
@@ -766,7 +805,7 @@
     "code": 5009,
     "description": {
       "en": "Password length must be at least 5 characters long.",
-      "ar": "أيون الرقمية"
+      "ar": "يجب أن يكون طول كلمة المرور على الأقل 5 أحرف."
     },
     "status": "200"
   },
@@ -775,7 +814,7 @@
     "code": 5010,
     "description": {
       "en": "Password length must be less than or equal to 20 characters long",
-      "ar": "أيون الرقمية"
+      "ar": "يجب أن يكون طول كلمة المرور أقل من أو يساوي 20 حرفًا."
     },
     "status": "200"
   },
@@ -784,7 +823,7 @@
     "code": 5011,
     "description": {
       "en": "status must be one of [A, I]",
-      "ar": "أيون الرقمية"
+      "ar": "يجب أن يكون الحالة واحدة من [A، I]"
     },
     "status": "200"
   },
@@ -792,7 +831,8 @@
     "name": "USER_NOT_FOUND",
     "code": 5012,
     "description": {
-      "en": "User with this id not found."
+      "en": "User with this id not found.",
+      "ar": "لم يتم العثور على المستخدم بهذا المعرف."
     },
     "status": "200"
   },
@@ -801,7 +841,7 @@
     "code": 6000,
     "description": {
       "en": "System cannot process the request",
-      "ar": "أيون الرقمية"
+      "ar": "النظام غير قادر على معالجة الطلب."
     },
     "status": "200"
   },
@@ -810,7 +850,7 @@
     "code": 6001,
     "description": {
       "en": "ascRole can not be blank",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون ascRole فارغًا"
     },
     "status": "200"
   },
@@ -819,7 +859,7 @@
     "code": 6002,
     "description": {
       "en": "Role name  can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "اسم الدور لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -828,7 +868,7 @@
     "code": 6003,
     "description": {
       "en": "Description can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون الوصف فارغًا."
     },
     "status": "200"
   },
@@ -837,7 +877,7 @@
     "code": 6004,
     "description": {
       "en": "Role with this id not found.",
-      "ar": "أيون الرقمية"
+      "ar": "لم يتم العثور على الدور بهذا المعرف."
     },
     "status": "200"
   },
@@ -846,7 +886,7 @@
     "code": 6005,
     "description": {
       "en": "ascRole can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون ascRole فارغًا."
     },
     "status": "200"
   },
@@ -855,7 +895,7 @@
     "code": 6006,
     "description": {
       "en": "Resource name can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون اسم المورد فارغًا."
     },
     "status": "200"
   },
@@ -864,7 +904,7 @@
     "code": 6007,
     "description": {
       "en": "Menu group can not be blank.",
-      "ar": "أيون الرقمية"
+      "ar": "لا يمكن أن يكون مجموعة القائمة فارغة."
     },
     "status": "200"
   },
@@ -872,8 +912,8 @@
     "name": "MENU_LABEL_REQUIRED",
     "code": 6008,
     "description": {
-      "en": "Menu lable can not be blank.",
-      "ar": "أيون الرقمية"
+      "en": "Menu label can not be blank.",
+      "ar": "لا يمكن أن يكون تسمية القائمة فارغة."
     },
     "status": "200"
   },
@@ -882,7 +922,7 @@
     "code": 6009,
     "description": {
       "en": "is_dashboard must be one of [Y, N]",
-      "ar": "أيون الرقمية"
+      "ar": "يجب أن يكون is_dashboard واحدًا من [Y، N]."
     },
     "status": "200"
   },
@@ -891,7 +931,7 @@
     "code": 6010,
     "description": {
       "en": "Resource with this id not found.",
-      "ar": "أيون الرقمية"
+      "ar": "لم يتم العثور على المورد بهذا المعرف."
     },
     "status": "200"
   },
@@ -899,8 +939,8 @@
     "name": "ROLE_USER_EXIST",
     "code": 6011,
     "description": {
-      "en": "Role against this user already exist.",
-      "ar": "أيون الرقمية"
+      "en": "Role against this user already exists.",
+      "ar": "الدور موجود بالفعل مقابل هذا المستخدم."
     },
     "status": "200"
   },
@@ -908,8 +948,8 @@
     "name": "ROLE_RESOURCE_EXIST",
     "code": 6012,
     "description": {
-      "en": "Role against this resource already exist.",
-      "ar": "أيون الرقمية"
+      "en": "Role against this resource already exists.",
+      "ar": "الدور موجود بالفعل مقابل هذا المورد."
     },
     "status": "200"
   },
@@ -917,7 +957,8 @@
     "name": "ERR_ACCOUNT_SERVICE",
     "code": 3000,
     "description": {
-      "en": "System cannot process the request"
+      "en": "System cannot process the request",
+      "ar": "لا يمكن للنظام معالجة الطلب"
     },
     "status": "200"
   },
@@ -925,7 +966,8 @@
     "name": "SECURITYTYPE_REQUIRED",
     "code": 2001,
     "description": {
-      "en": "Security type can not be blank."
+      "en": "Security type can not be blank.",
+      "ar": "لا يمكن أن يكون نوع الأمان فارغًا."
     },
     "status": "200"
   },
@@ -933,7 +975,8 @@
     "name": "GATEWAYNAME_REQUIRED",
     "code": 2002,
     "description": {
-      "en": "Gatway name can not be blank."
+      "en": "Gateway name can not be blank.",
+      "ar": "لا يمكن أن يكون اسم البوابة فارغًا."
     },
     "status": "200"
   },
@@ -941,7 +984,8 @@
     "name": "GATEWAYID_GUID",
     "code": 2003,
     "description": {
-      "en": "Gateway id must be GUID."
+      "en": "Gateway id must be GUID.",
+      "ar": "يجب أن يكون معرف البوابة GUID."
     },
     "status": "200"
   },
@@ -949,7 +993,8 @@
     "name": "GATEWAY_NOT_FOUND",
     "code": 2003,
     "description": {
-      "en": "Gateway not found."
+      "en": "Gateway not found.",
+      "ar": "البوابة غير موجودة."
     },
     "status": "200"
   },
@@ -957,7 +1002,8 @@
     "name": "SERVICETYPE_REQUIRED",
     "code": 2004,
     "description": {
-      "en": "Service type can not be blank."
+      "en": "Service type can not be blank.",
+      "ar": "لا يمكن أن يكون نوع الخدمة فارغًا."
     },
     "status": "200"
   },
@@ -965,7 +1011,8 @@
     "name": "SERVICENAME_REQUIRED",
     "code": 2005,
     "description": {
-      "en": "Service name can not be blank."
+      "en": "Service name can not be blank.",
+      "ar": "اسم الخدمة لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -973,7 +1020,8 @@
     "name": "CONTEXTROOT_REQUIRED",
     "code": 2006,
     "description": {
-      "en": "Context root can not be blank."
+      "en": "Context root can not be blank.",
+      "ar": "لا يمكن أن يكون جذر السياق فارغًا."
     },
     "status": "200"
   },
@@ -981,7 +1029,8 @@
     "name": "CDTSERVICE_LATESTVERSION_REQUIRED",
     "code": 2007,
     "description": {
-      "en": "Latest verion can not be blank."
+      "en": "Latest version can not be blank.",
+      "ar": "آخر إصدار لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -989,7 +1038,8 @@
     "name": "CDTSERVICE_HOSTNAME_REQUIRED",
     "code": 2008,
     "description": {
-      "en": "Host name can not be blank."
+      "en": "Host name can not be blank.",
+      "ar": "اسم المضيف لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -997,7 +1047,8 @@
     "name": "CDTSERVICE_ISSECURE_REQUIRED",
     "code": 2009,
     "description": {
-      "en": "Is secure can not be blank."
+      "en": "Is secure can not be blank.",
+      "ar": "الأمان لا يمكن أن يكون فارغًا."
     },
     "status": "200"
   },
@@ -1005,7 +1056,8 @@
     "name": "CDTSERVICE_HTTPOPERATION_REQUIRED",
     "code": 2010,
     "description": {
-      "en": "Http operation can not be blank."
+      "en": "HTTP operation can not be blank.",
+      "ar": "عملية HTTP لا يمكن أن تكون فارغة."
     },
     "status": "200"
   },
@@ -1013,7 +1065,8 @@
     "name": "SERVICE_NOT_FOUND",
     "code": 2011,
     "description": {
-      "en": "Service not found."
+      "en": "Service not found.",
+      "ar": "الخدمة غير موجودة."
     },
     "status": "200"
   },
@@ -1021,7 +1074,8 @@
     "name": "CHANNELNAME_REQUIRED",
     "code": 2012,
     "description": {
-      "en": "Channel name can not be blank."
+      "en": "Channel name can not be blank.",
+      "ar": "لا يمكن أن يكون اسم القناة فارغًا."
     },
     "status": "200"
   },
@@ -1029,7 +1083,8 @@
     "name": "GATEWAYID_REQUIRED",
     "code": 2013,
     "description": {
-      "en": "Gateway can not be blank."
+      "en": "Gateway can not be blank.",
+      "ar": "لا يمكن أن يكون البوابة فارغة."
     },
     "status": "200"
   },
@@ -1037,7 +1092,8 @@
     "name": "CDTAUTHORITIES_REQUIRED",
     "code": 2014,
     "description": {
-      "en": "cdtAuthorities is required."
+      "en": "CDT authorities are required.",
+      "ar": "السلطات CDT مطلوبة."
     },
     "status": "200"
   },
@@ -1045,7 +1101,8 @@
     "name": "CHANNELID_GUID",
     "code": 2014,
     "description": {
-      "en": "Channel is must be GUID."
+      "en": "Channel must be GUID.",
+      "ar": "يجب أن يكون القناة GUID."
     },
     "status": "200"
   },
@@ -1053,7 +1110,8 @@
     "name": "CHANNELID_REQUIRED",
     "code": 2015,
     "description": {
-      "en": "Channel id can not be blank."
+      "en": "Channel ID can not be blank.",
+      "ar": "لا يمكن أن يكون معرف القناة فارغًا."
     },
     "status": "200"
   },
@@ -1061,7 +1119,8 @@
     "name": "SERVICEID_GUID",
     "code": 2015,
     "description": {
-      "en": "Service id must be GUID."
+      "en": "Service ID must be GUID.",
+      "ar": "يجب أن يكون معرف الخدمة GUID."
     },
     "status": "200"
   },
@@ -1069,7 +1128,8 @@
     "name": "SERVICE_REQUIRED",
     "code": 2016,
     "description": {
-      "en": "Service can not be blank."
+      "en": "Service can not be blank.",
+      "ar": "لا يمكن أن تكون الخدمة فارغة."
     },
     "status": "200"
   },
@@ -1077,7 +1137,8 @@
     "name": "CDTAUTHORITIES_SERVICE_MIN",
     "code": 2017,
     "description": {
-      "en": "Minimum one service is required."
+      "en": "Minimum one service is required.",
+      "ar": "الحد الأدنى المطلوب خدمة واحدة على الأقل."
     },
     "status": "200"
   },
@@ -1085,7 +1146,8 @@
     "name": "AUTHORITYID_GUID",
     "code": 2018,
     "description": {
-      "en": "Authority id must be GUID."
+      "en": "Authority ID must be GUID.",
+      "ar": "يجب أن يكون معرف السلطة GUID."
     },
     "status": "200"
   },
@@ -1093,7 +1155,8 @@
     "name": "CDTAUTHORITY_REQUIRED",
     "code": 2019,
     "description": {
-      "en": "cdtAuthority can not be blank."
+      "en": "CDT authority can not be blank.",
+      "ar": "لا يمكن أن تكون سلطة CDT فارغة."
     },
     "status": "200"
   },
@@ -1101,7 +1164,8 @@
     "name": "SERVICEVERSIONID_GUID",
     "code": 2022,
     "description": {
-      "en": "Service version id must be GUID."
+      "en": "Service version ID must be GUID.",
+      "ar": "يجب أن يكون معرف إصدار الخدمة GUID."
     },
     "status": "200"
   },
@@ -1109,7 +1173,8 @@
     "name": "CDTSERVICEVERSION_REQUIRED",
     "code": 2023,
     "description": {
-      "en": "cdtServiceVersion can not be blank."
+      "en": "CDT service version can not be blank.",
+      "ar": "لا يمكن أن يكون إصدار الخدمة CDT فارغًا."
     },
     "status": "200"
   },
@@ -1117,7 +1182,8 @@
     "name": "CHANGESDESCRIPTION_REQUIRED",
     "code": 2024,
     "description": {
-      "en": "Changes description can not be blank."
+      "en": "Changes description can not be blank.",
+      "ar": "لا يمكن أن يكون وصف التغييرات فارغًا."
     },
     "status": "200"
   },
@@ -1125,7 +1191,8 @@
     "name": "SERVICEVERSION_REQUIRED",
     "code": 2025,
     "description": {
-      "en": "Service version can not be blank."
+      "en": "Service version can not be blank.",
+      "ar": "لا يمكن أن يكون إصدار الخدمة فارغًا."
     },
     "status": "200"
   },
@@ -1133,7 +1200,8 @@
     "name": "SERVICE_VESION_NOT_FOUND",
     "code": 2026,
     "description": {
-      "en": "Service version not found."
+      "en": "Service version not found.",
+      "ar": "إصدار الخدمة غير موجود."
     },
     "status": "200"
   },
@@ -1141,7 +1209,8 @@
     "name": "GATEWAY_CHANNEL_NOT_EXISTS",
     "code": 4004,
     "description": {
-      "en": "Gateway channels are empty."
+      "en": "Gateway channels are empty.",
+      "ar": "قنوات البوابة فارغة."
     },
     "status": "200"
   },
@@ -1149,7 +1218,8 @@
     "name": "X_CHANNEL_ID_REQUIRED",
     "code": 4003,
     "description": {
-      "en": "x-channel-id can't be blank in the header."
+      "en": "x-channel-id can't be blank in the header.",
+      "ar": "لا يمكن أن يكون x-channel-id فارغًا في الرأس."
     },
     "status": "200"
   },
@@ -1157,7 +1227,8 @@
     "name": "INVALID_GATEWAY_CHANNEL",
     "code": 4002,
     "description": {
-      "en": "Invalid gateway channel"
+      "en": "Invalid gateway channel",
+      "ar": "قناة البوابة غير صالحة."
     },
     "status": "200"
   },
@@ -1165,7 +1236,8 @@
     "name": "INVALID_GATEWAY_SERVICE",
     "code": 4005,
     "description": {
-      "en": "Invalid gateway service"
+      "en": "Invalid gateway service",
+      "ar": "خدمة البوابة غير صالحة."
     },
     "status": "200"
   },
@@ -1173,7 +1245,8 @@
     "name": "AML_CHECK_FAILED",
     "code": 6500,
     "description": {
-      "en": "Aml check failed"
+      "en": "AML check failed",
+      "ar": "فشل فحص AML"
     },
     "status": "200"
   },
@@ -1181,7 +1254,8 @@
     "name": "KYCINFORMATION_REQUIRED",
     "code": 1100,
     "description": {
-      "en": "Kyc Information can't be blank."
+      "en": "KYC Information can't be blank",
+      "ar": "لا يمكن ترك معلومات KYC فارغة."
     },
     "status": "200"
   },
@@ -1189,51 +1263,71 @@
     "name": "AML_CHECK_IS_IN_PROCESSING",
     "code": 6501,
     "description": {
-      "en": "Aml check is in processing state"
+      "en": "AML check is in processing state",
+      "ar": "فحص AML قيد المعالجة"
     },
     "status": "200"
   },
   "ERR_CALLBACK_ALERT_SERVICE": {
     "name": "ERR_CALLBACK_ALERT_SERVICE",
     "code": 6502,
-    "description": {},
+    "description": {
+      "en": "Error in callback alert service",
+      "ar": "خطأ في خدمة التنبيه بالعودة"
+    },
     "status": "200"
   },
   "INVALID_LIVENESS_IMAGE": {
     "name": "INVALID_LIVENESS_IMAGE",
     "code": 6503,
-    "description": {},
+    "description": {
+      "en": "Invalid Liveness image",
+      "ar": "صورة الحيوية غير صالحة"
+    },
     "status": "200"
   },
-  "       ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION\r\r\n": {
-    "name": "      ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION",
+  "ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION": {
+    "name": "ERR_CUSTOMER_CORE_BANKING_PROFILE_CREATION",
     "code": 6504,
-    "description": {},
+    "description": {
+      "en": "Error in customer core banking profile creation",
+      "ar": "خطأ في إنشاء ملف العميل الأساسي المصرفي"
+    },
     "status": "200"
   },
   "INVALID_ALERT_REQUEST": {
     "name": "INVALID_ALERT_REQUEST",
     "code": 6507,
-    "description": {},
+    "description": {
+      "en": "Invalid alert request",
+      "ar": "طلب تنبيه غير صالح"
+    },
     "status": "200"
   },
   "CDT_API_SECRET_REQUIRED": {
     "name": "CDT_API_SECRET_REQUIRED",
     "code": 6508,
-    "description": {},
+    "description": {
+      "en": "API secret required",
+      "ar": "السر السري للواجهة البرمجية مطلوب"
+    },
     "status": "200"
   },
   "CDT_API_KEY_REQUIRED": {
     "name": "CDT_API_KEY_REQUIRED",
     "code": 6509,
-    "description": {},
+    "description": {
+      "en": "API Key required",
+      "ar": "مفتاح واجهة البرمجة مطلوب"
+    },
     "status": "200"
   },
   "OTP_REQUIRED": {
     "name": "OTP_REQUIRED",
     "code": 4000,
     "description": {
-      "en": "OTP can't be blank."
+      "en": "OTP can't be blank",
+      "ar": "لا يمكن ترك OTP فارغًا."
     },
     "status": "200"
   },
@@ -1241,7 +1335,8 @@
     "name": "OTP_CODE_REQUIRED",
     "code": 4001,
     "description": {
-      "en": "OTP code can't be blank."
+      "en": "OTP code can't be blank",
+      "ar": "لا يمكن ترك رمز OTP فارغًا."
     },
     "status": "200"
   },
@@ -1249,7 +1344,8 @@
     "name": "OTP_CODE_MIN",
     "code": 4002,
     "description": {
-      "en": "OTP code must be atleast 6 characters long."
+      "en": "OTP code must be at least 6 characters long",
+      "ar": "يجب أن يكون رمز OTP على الأقل 6 أحرف."
     },
     "status": "200"
   },
@@ -1257,7 +1353,8 @@
     "name": "OTP_CODE_MAX",
     "code": 4003,
     "description": {
-      "en": "OTP code must be atleast 6 characters long."
+      "en": "OTP code must be at least 6 characters long",
+      "ar": "يجب أن يكون رمز OTP على الأقل 6 أحرف."
     },
     "status": "200"
   },
@@ -1265,7 +1362,8 @@
     "name": "DUPLICATE_LIVENESS_IMAGE",
     "code": 8080,
     "description": {
-      "en": "Duplicate Liveness Image"
+      "en": "Duplicate Liveness Image",
+      "ar": "صورة الحيوية مكررة"
     },
     "status": "200"
   },
@@ -1273,7 +1371,8 @@
     "name": "CUSTOMER_IS_UNDERAGE",
     "code": 8301,
     "description": {
-      "en": "Customer Age is Under 16."
+      "en": "Customer Age is Under 16.",
+      "ar": "عمر العميل أقل من 16 عامًا."
     },
     "status": "200"
   },
@@ -1281,7 +1380,8 @@
     "name": "CIVIL_ID_EXPIRED",
     "code": 8456,
     "description": {
-      "en": "Civil Id is expired"
+      "en": "Civil Id is expired",
+      "ar": "انتهت صلاحية الهوية المدنية"
     },
     "status": "200"
   },
@@ -1289,7 +1389,8 @@
     "name": "CIVIL_ID_IS_PROCESSING",
     "code": 8457,
     "description": {
-      "en": "We're processing your Civil ID card…"
+      "en": "We're processing your Civil ID card…",
+      "ar": "نحن نعالج بطاقة هويتك المدنية..."
     },
     "status": "200"
   },
@@ -1297,7 +1398,8 @@
     "name": "CUSTOMER_PASSPORT_IS_PROCESSING",
     "code": 8458,
     "description": {
-      "en": "We're processing your Passport…"
+      "en": "We're processing your Passport…",
+      "ar": "نحن نعالج جواز سفرك..."
     },
     "status": "200"
   },
@@ -1305,7 +1407,8 @@
     "name": "CONTACT_TO_BANK",
     "code": 8459,
     "description": {
-      "en": "please contact to bank "
+      "en": "Please contact the bank",
+      "ar": "يرجى الاتصال بالبنك"
     },
     "status": "200"
   },
@@ -1313,97 +1416,134 @@
     "name": "REQUEST_NOT_ALLOWED",
     "code": 8460,
     "description": {
-      "en": "You don't have rights to access this request"
+      "en": "You don't have rights to access this request",
+      "ar": "ليس لديك حقوق الوصول إلى هذا الطلب"
     },
     "status": "200"
   },
   "ERR_GATEWAY_ENCRYPTION": {
     "name": "ERR_GATEWAY_ENCRYPTION",
     "code": 8461,
-    "description": {},
+    "description": {
+      "en": "Error Gateway encryption",
+      "ar": "خطأ في تشفير البوابة"
+    },
     "status": "200"
   },
   "MOBILE_NUMBER_ALREADY_VERIFIED": {
     "name": "MOBILE_NUMBER_ALREADY_VERIFIED",
     "code": 8463,
     "description": {
-      "en": "Mobile number is already verified"
+      "en": "Mobile number is already verified",
+      "ar": "تم التحقق بالفعل من رقم الجوال"
     },
     "status": "200"
   },
   "INVALID_CUSTOMER_PASSPORT": {
     "name": "INVALID_CUSTOMER_PASSPORT",
     "code": 8464,
-    "description": {},
+    "description": {
+      "en": "Invalid Customer passport",
+      "ar": "جواز العميل غير صالح"
+    },
     "status": "200"
   },
   "CUSTOMER_PASSPORT_MISSING": {
     "name": "CUSTOMER_PASSPORT_MISSING",
     "code": 8465,
-    "description": {},
+    "description": {
+      "en": "Customer Passport Missing",
+      "ar": "جواز العميل مفقود"
+    },
     "status": "200"
   },
   "CUSTOMER_PASSPORT_EXPIRED": {
     "name": "CUSTOMER_PASSPORT_EXPIRED",
     "code": 8466,
-    "description": {},
+    "description": {
+      "en": "Customer Passport Expired",
+      "ar": "انتهت صلاحية جواز العميل"
+    },
     "status": "200"
   },
   "CUSTOMER_PASSPORT_PROCESSING_FAILED": {
     "name": "CUSTOMER_PASSPORT_PROCESSING_FAILED",
     "code": 8467,
-    "description": {},
+    "description": {
+      "en": "Customer passport processing failed",
+      "ar": "فشلت معالجة جواز العميل"
+    },
     "status": "200"
   },
   "INVALID_DAON_CHECK_ID": {
     "name": "INVALID_DAON_CHECK_ID",
     "code": 8468,
-    "description": {},
+    "description": {
+      "en": "Invalid DAON check ID",
+      "ar": "رقم فحص DAON غير صالح"
+    },
     "status": "200"
   },
   "DAON_SESSION_MISSING": {
     "name": "DAON_SESSION_MISSING",
     "code": 8469,
-    "description": {},
+    "description": {
+      "en": "DAON session missing",
+      "ar": "جلسة DAON مفقودة"
+    },
     "status": "200"
   },
   "REQUEST_TIMEOUT": {
     "name": "REQUEST_TIMEOUT",
     "code": 8470,
-    "description": {},
+    "description": {
+      "en": "Request is timeout",
+      "ar": "انتهاء الوقت المخصص للطلب"
+    },
     "status": "200"
   },
   "DOCUMENT_IS_PHOTOCOPY": {
     "name": "DOCUMENT_IS_PHOTOCOPY",
     "code": 8482,
     "description": {
-      "en": "Document is photocopy"
+      "en": "Document is photocopy",
+      "ar": "المستند هو نسخة فوتوغرافية"
     },
     "status": "200"
   },
   "REFRESH_TOKEN_INVALID": {
     "name": "REFRESH_TOKEN_INVALID",
     "code": 8472,
-    "description": {},
+    "description": {
+      "en": "Refresh token is invalid",
+      "ar": "رمز التحديث غير صالح"
+    },
     "status": "200"
   },
   "OTP_LIMIT_REACHED": {
     "name": "OTP_LIMIT_REACHED",
     "code": 8473,
-    "description": {},
+    "description": {
+      "en": "OTP limit reached",
+      "ar": "تم الوصول إلى الحد الأقصى لرمز التحقق"
+    },
     "status": "200"
   },
   "IDENTITYX_NATIONALITY_NOT_MATCHED": {
     "name": "IDENTITYX_NATIONALITY_NOT_MATCHED",
     "code": 8474,
-    "description": {},
+    "description": {
+      "en": "IDENTITYX nationality does not match",
+      "ar": "جنسية IDENTITYX غير متطابقة"
+    },
     "status": "200"
   },
   "IDENTITYX_DEVICE_ISNOT_COMPLIANT": {
     "name": "IDENTITYX_DEVICE_ISNOT_COMPLIANT",
     "code": 8475,
     "description": {
-      "en": "Device is rooted/jailbreaked and is not compliant"
+      "en": "Device is rooted/jailbroken and is not compliant",
+      "ar": "الجهاز مجذر/مكسور وغير متوافق"
     },
     "status": "200"
   },
@@ -1411,7 +1551,8 @@
     "name": "IDENTITYX_FACE_ALREADY_IN_WATCHLIST",
     "code": 8476,
     "description": {
-      "en": "This customer already exists in watchlist"
+      "en": "This customer already exists in watchlist",
+      "ar": "هذا العميل موجود بالفعل في قائمة المراقبة"
     },
     "status": "200"
   },
@@ -1419,7 +1560,8 @@
     "name": "IDENTITYX_CIVIL_ID_MRZ_INCORRECT",
     "code": 8477,
     "description": {
-      "en": "Civil Id validations failed"
+      "en": "Civil Id validations failed",
+      "ar": "فشلت عمليات التحقق من هوية المدني"
     },
     "status": "200"
   },
@@ -1427,7 +1569,8 @@
     "name": "IDENTITYX_PASSPORT_MRZ_INCORRECT",
     "code": 8478,
     "description": {
-      "en": "Passport validations failed"
+      "en": "Passport validations failed",
+      "ar": "فشلت عمليات التحقق من جواز السفر"
     },
     "status": "200"
   },
@@ -1435,7 +1578,8 @@
     "name": "CIVILID_FRONT_IS_PHOTOCOPY",
     "code": 8479,
     "description": {
-      "en": "CivilId front side is photocopy"
+      "en": "CivilId front side is photocopy",
+      "ar": "صورة الهوية الأمامي هي نسخة فوتوغرافية"
     },
     "status": "200"
   },
@@ -1443,7 +1587,8 @@
     "name": "CIVILID_BACK_IS_PHOTOCOPY",
     "code": 8480,
     "description": {
-      "en": "CivilId back side is photocopy"
+      "en": "CivilId back side is photocopy",
+      "ar": "صورة الهوية الخلفي هي نسخة فوتوغرافية"
     },
     "status": "200"
   },
@@ -1451,7 +1596,8 @@
     "name": "PASSPORT_IS_PHOTOCOPY",
     "code": 8481,
     "description": {
-      "en": "Passport is photocopy"
+      "en": "Passport is photocopy",
+      "ar": "الجواز هو نسخة فوتوغرافية"
     },
     "status": "200"
   },
@@ -1459,7 +1605,8 @@
     "name": "CUSTOMER_PROFILEID_REQUIRED",
     "code": 8483,
     "description": {
-      "en": "Customer profileId is required"
+      "en": "Customer profileId is required",
+      "ar": "مطلوب معرف ملف العميل"
     },
     "status": "200"
   },
@@ -1467,7 +1614,8 @@
     "name": "CIVIL_ID_EXPIRY_NOT_AVAILABLE",
     "code": 8484,
     "description": {
-      "en": "CivilId Expiry value is empty"
+      "en": "CivilId Expiry value is empty",
+      "ar": "قيمة انتهاء صلاحية الهوية المدنية فارغة"
     },
     "status": "200"
   },
@@ -1475,7 +1623,8 @@
     "name": "CORE_BANK_GENERATE_TOKEN_REQUEST_FAILED",
     "code": 8485,
     "description": {
-      "en": "Generate token bank api request failed"
+      "en": "Generate token bank api request failed",
+      "ar": "فشلت طلبات واجهة بنك الحصول على رمز"
     },
     "status": "200"
   },
@@ -1483,7 +1632,8 @@
     "name": "GENERATE_BANK_TOKEN_FAILED",
     "code": 8486,
     "description": {
-      "en": "Generate token request failed"
+      "en": "Generate token request failed",
+      "ar": "فشلت طلبات الحصول على رمز"
     },
     "status": "200"
   },
@@ -1491,7 +1641,8 @@
     "name": "CORE_BANK_VERIFY_DOB_REQUEST_FAILED",
     "code": 8487,
     "description": {
-      "en": "Verify dob bank api request failed"
+      "en": "Verify dob bank api request failed",
+      "ar": "فشلت طلبات واجهة بنك التحقق من تاريخ الميلاد"
     },
     "status": "200"
   },
@@ -1499,7 +1650,8 @@
     "name": "CORE_BANK_GET_DOCUMENTS_FAILED",
     "code": 8488,
     "description": {
-      "en": "get documents bank api request failed"
+      "en": "Get documents bank api request failed",
+      "ar": "فشلت طلبات واجهة بنك الحصول على المستندات"
     },
     "status": "200"
   },
@@ -1507,7 +1659,8 @@
     "name": "CORE_BANK_UPLOAD_DOCUMENTS_FAILED",
     "code": 8489,
     "description": {
-      "en": "Upload documents bank api request failed"
+      "en": "Upload documents bank api request failed",
+      "ar": "فشلت طلبات واجهة بنك رفع المستندات"
     },
     "status": "200"
   },
@@ -1515,7 +1668,8 @@
     "name": "CUSTOMER_DOB_REQUEST_NOT_VERIFIED",
     "code": 8490,
     "description": {
-      "en": "Customer's DOB Request is not verified"
+      "en": "Customer's DOB Request is not verified",
+      "ar": "لم يتم التحقق من طلب تاريخ ميلاد العميل"
     },
     "status": "200"
   },
@@ -1523,7 +1677,8 @@
     "name": "DOCUMENT_NOT_FOUND",
     "code": 8491,
     "description": {
-      "en": "Bank document is not found"
+      "en": "Bank document is not found",
+      "ar": "لم يتم العثور على المستند المصرفي"
     },
     "status": "200"
   },
@@ -1531,7 +1686,8 @@
     "name": "DOCUMENTS_NOT_EXIST",
     "code": 8492,
     "description": {
-      "en": "Documents do not exist"
+      "en": "Documents do not exist",
+      "ar": "المستندات غير موجودة"
     },
     "status": "200"
   },
@@ -1539,7 +1695,8 @@
     "name": "SESSION_NOT_FOUND",
     "code": 8493,
     "description": {
-      "en": "There is no session for this customer at the moment"
+      "en": "There is no session for this customer at the moment",
+      "ar": "لا توجد جلسة لهذا العميل في الوقت الحالي"
     },
     "status": "200"
   },
@@ -1547,7 +1704,8 @@
     "name": "INVALID_REQUEST_BODY",
     "code": 8494,
     "description": {
-      "en": "Request body is not correct"
+      "en": "Request body is not correct",
+      "ar": "جسم الطلب غير صحيح"
     },
     "status": "200"
   },
@@ -1555,7 +1713,8 @@
     "name": "RESOURCE_NOT_ALLOWED",
     "code": 8495,
     "description": {
-      "en": "User does not have permission to access this resource"
+      "en": "User does not have permission to access this resource",
+      "ar": "المستخدم ليس لديه إذن للوصول إلى هذا المورد"
     },
     "status": "200"
   },
@@ -1563,7 +1722,8 @@
     "name": "SESSION_ID_INVALID",
     "code": 8496,
     "description": {
-      "en": "Customer's Session Id is invalid"
+      "en": "Customer's Session Id is invalid",
+      "ar": "معرف الجلسة للعميل غير صحيح"
     },
     "status": "200"
   },
@@ -1571,7 +1731,8 @@
     "name": "INVALID_CUSTOMER_ID",
     "code": 8497,
     "description": {
-      "en": "Customer Id is not valid"
+      "en": "Customer Id is not valid",
+      "ar": "معرف العميل غير صحيح"
     },
     "status": "200"
   },
@@ -1579,7 +1740,8 @@
     "name": "UPLOAD_FILE_ERROR",
     "code": 8498,
     "description": {
-      "en": "Error occurred while uploading file"
+      "en": "Error occurred while uploading file",
+      "ar": "حدث خطأ أثناء تحميل الملف"
     },
     "status": "200"
   },
@@ -1587,7 +1749,8 @@
     "name": "GET_FILE_ERROR",
     "code": 8499,
     "description": {
-      "en": "Error occurred while downloading file"
+      "en": "Error occurred while downloading file",
+      "ar": "حدث خطأ أثناء تنزيل الملف"
     },
     "status": "200"
   },
@@ -1595,7 +1758,8 @@
     "name": "CORE_BANK_REFRESH_TOKEN_FAILED",
     "code": 8500,
     "description": {
-      "en": "Bank's refresh token api failed"
+      "en": "Bank's refresh token api failed",
+      "ar": "فشلت واجهة بنك تحديث رمز الوصول"
     },
     "status": "200"
   },
@@ -1603,7 +1767,8 @@
     "name": "ERR_ATTACHMENT_SERVICE",
     "code": 8501,
     "description": {
-      "en": "System cannot process the request"
+      "en": "System cannot process the request",
+      "ar": "لا يمكن للنظام معالجة الطلب"
     },
     "status": "200"
   },
@@ -1611,7 +1776,8 @@
     "name": "ERR_BBYN_SERVICE",
     "code": 8502,
     "description": {
-      "en": "System cannot process the request"
+      "en": "System cannot process the request",
+      "ar": "لا يمكن للنظام معالجة الطلب"
     },
     "status": "200"
   },
@@ -1619,7 +1785,8 @@
     "name": "ERR_DOCS_SERVICE",
     "code": 8503,
     "description": {
-      "en": "System cannot process the request"
+      "en": "System cannot process the request",
+      "ar": "لا يمكن للنظام معالجة الطلب"
     },
     "status": "200"
   },
@@ -1627,7 +1794,8 @@
     "name": "ERR_GATEWAY_SERVICE",
     "code": 8504,
     "description": {
-      "en": "System cannot process the request"
+      "en": "System cannot process the request",
+      "ar": "لا يمكن للنظام معالجة الطلب"
     },
     "status": "200"
   },
@@ -1635,7 +1803,8 @@
     "name": "INVALID_PDF_PAGE_NUMBER",
     "code": 8505,
     "description": {
-      "en": "Pdf does not contain the required page number"
+      "en": "Pdf does not contain the required page number",
+      "ar": "الملف PDF لا يحتوي على رقم الصفحة المطلوب"
     },
     "status": "200"
   },
@@ -1643,7 +1812,8 @@
     "name": "INVALID_PARAMS",
     "code": 8506,
     "description": {
-      "en": "Parameters which are provided is either incorrect or missing"
+      "en": "Parameters which are provided are either incorrect or missing",
+      "ar": "المعلمات المقدمة غير صحيحة أو ناقصة"
     },
     "status": "200"
   },
@@ -1651,7 +1821,8 @@
     "name": "EVALUATION_MISMATCH_LIVENESS",
     "code": 8507,
     "description": {
-      "en": "Liveness Mismatched"
+      "en": "Liveness Mismatched",
+      "ar": "عدم تطابق الحيوية"
     },
     "status": "200"
   },
@@ -1659,7 +1830,8 @@
     "name": "EVALUATION_MISMATCH_CIVIL_ID",
     "code": 8508,
     "description": {
-      "en": "Civil Id Mismatched"
+      "en": "Civil Id Mismatched",
+      "ar": "عدم تطابق رقم الهوية المدنية"
     },
     "status": "200"
   },
@@ -1667,7 +1839,8 @@
     "name": "EVALUATION_MISMATCH_PASSPORT",
     "code": 8509,
     "description": {
-      "en": "Passport Mismatched"
+      "en": "Passport Mismatched",
+      "ar": "عدم تطابق جواز السفر"
     },
     "status": "200"
   },
@@ -1675,7 +1848,8 @@
     "name": "ERR_AUTHORITY_SERVICE",
     "code": 8510,
     "description": {
-      "en": "System cannot process the request"
+      "en": "System cannot process the request",
+      "ar": "لا يمكن للنظام معالجة الطلب"
     },
     "status": "200"
   },
@@ -1683,7 +1857,8 @@
     "name": "EVALUATION_FAILD",
     "code": 8511,
     "description": {
-      "en": "Evaluation request failed"
+      "en": "Evaluation request failed",
+      "ar": "فشل طلب التقييم"
     },
     "status": "200"
   },
@@ -1691,7 +1866,8 @@
     "name": "EVALUATION_PHOTO_REPLACED",
     "code": 8512,
     "description": {
-      "en": "Upload document(s) is forged"
+      "en": "Upload document(s) is forged",
+      "ar": "تم تزوير وثائق التحميل"
     },
     "status": "200"
   },
@@ -1699,7 +1875,8 @@
     "name": "EVALUATION_MISMATCH_TRUSTED_SOURCE",
     "code": 8513,
     "description": {
-      "en": "Evaluation mismatch with trusted source photo"
+      "en": "Evaluation mismatch with trusted source photo",
+      "ar": "عدم تطابق التقييم مع صورة المصدر الموثوق به"
     },
     "status": "200"
   },
@@ -1707,7 +1884,8 @@
     "name": "IDENTITYX_MULTIPLE_SELFIE_NOT_ALLOWED",
     "code": 8514,
     "description": {
-      "en": "Multiple selfie uploading is not allowed"
+      "en": "Multiple selfie uploading is not allowed",
+      "ar": "لا يُسمح بتحميل العديد من صور السيلفي"
     },
     "status": "200"
   }
