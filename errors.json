@@ -1,4 +1,13 @@
 {
+  "CUSTOMER_REGISTRATION_FAILED": {
+    "name": "CUSTOMER_REGISTRATION_FAILED",
+    "code": 9000,
+    "description": {
+      "en": "Customer registration failed, please register again.",
+      "ar": "فشل تسجيل العميل، يرجى التسجيل مرة أخرى."
+    },
+    "status": "200"
+  },
   "ERR_CUSTOMER_SERVICE": {
     "name": "ERR_CUSTOMER_SERVICE",
     "code": 9001,
@@ -1886,6 +1895,96 @@
     "description": {
       "en": "Multiple selfie uploading is not allowed",
       "ar": "لا يُسمح بتحميل العديد من صور السيلفي"
+    },
+    "status": "200"
+  },
+  "COLOR_COPY_DETECTION": {
+    "name": "COLOR_COPY_DETECTION",
+    "code": 8515,
+    "description": {
+      "en": "Color Copy validation failed",
+      "ar": "فشل التحقق من صحة نسخة اللون"
+    },
+    "status": "200"
+  },
+  "PHOTO_SUBSTITUTION_DETECTION": {
+    "name": "PHOTO_SUBSTITUTION_DETECTION",
+    "code": 8516,
+    "description": {
+      "en": "Photo Substitution validation failed",
+      "ar": "فشل التحقق من صحة استبدال الصورة"
+    },
+    "status": "200"
+  },
+  "DOCUMENT_BLACK_AND_WHITE_DETECTION": {
+    "name": "DOCUMENT_BLACK_AND_WHITE_DETECTION",
+    "code": 8517,
+    "description": {
+      "en": "Document Black and White validation failed",
+      "ar": "فشل التحقق من صحة المستند بالأبيض والأسود"
+    },
+    "status": "200"
+  },
+  "DOCUMENT_SCREEN_REPLAY_DETECTION": {
+    "name": "DOCUMENT_SCREEN_REPLAY_DETECTION",
+    "code": 8518,
+    "description": {
+      "en": "Document Screen Replay Detection failed",
+      "ar": "فشل اكتشاف إعادة تشغيل شاشة المستند"
+    },
+    "status": "200"
+  },
+  "PAPER_COPY_DETECTION": {
+    "name": "PAPER_COPY_DETECTION",
+    "code": 8519,
+    "description": {
+      "en": "Paper Copy validation failed",
+      "ar": "فشل التحقق من صحة النسخة الورقية"
+    },
+    "status": "200"
+  },
+  "PORTRAIT_SUBSTITUTION_DETECTION": {
+    "name": "PORTRAIT_SUBSTITUTION_DETECTION",
+    "code": 8520,
+    "description": {
+      "en": "Portrait Substitution validation failed",
+      "ar": "فشل التحقق من صحة استبدال الصورة"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_SCANNING_FAILED": {
+    "name": "CIVIL_ID_SCANNING_FAILED",
+    "code": 8521,
+    "description": {
+      "en": "Civil id scanning failed",
+      "ar": "فشل مسح الهوية المدنية"
+    },
+    "status": "200"
+  },
+  "CUSTOMER_SELFIE_SCANNING_FAILED": {
+    "name": "CUSTOMER_SELFIE_SCANNING_FAILED",
+    "code": 8521,
+    "description": {
+      "en": "Customer selfie scanning failed",
+      "ar": "فشل المسح الضوئي للصور الشخصية للعميل"
+    },
+    "status": "200"
+  },
+  "CREATE_SESSION_FAILED":{
+    "name": "CREATE_SESSION_FAILED",
+    "code": 8522,
+    "description": {
+      "en": "Create session failed",
+      "ar": "فشل إنشاء الجلسة"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_VALIDATION_FAILED": {
+    "name": "CIVIL_ID_VALIDATION_FAILED",
+    "code": 8523,
+    "description": {
+      "en": "one of the validation checks failed",
+      "ar": "فشلت إحدى عمليات التحقق من الصحة"
     },
     "status": "200"
   }
