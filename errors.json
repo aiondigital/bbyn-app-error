@@ -1963,7 +1963,7 @@
   },
   "CUSTOMER_SELFIE_SCANNING_FAILED": {
     "name": "CUSTOMER_SELFIE_SCANNING_FAILED",
-    "code": 8521,
+    "code": 8522,
     "description": {
       "en": "Customer selfie scanning failed",
       "ar": "فشل المسح الضوئي للصور الشخصية للعميل"
@@ -1972,7 +1972,7 @@
   },
   "CREATE_SESSION_FAILED":{
     "name": "CREATE_SESSION_FAILED",
-    "code": 8522,
+    "code": 8523,
     "description": {
       "en": "Create session failed",
       "ar": "فشل إنشاء الجلسة"
@@ -1981,7 +1981,7 @@
   },
   "CIVIL_ID_VALIDATION_FAILED": {
     "name": "CIVIL_ID_VALIDATION_FAILED",
-    "code": 8523,
+    "code": 8524,
     "description": {
       "en": "one of the validation checks failed",
       "ar": "فشلت إحدى عمليات التحقق من الصحة"
