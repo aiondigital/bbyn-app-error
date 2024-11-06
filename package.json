@@ -1,12 +1,12 @@
 {
   "name": "conduit-app-error",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "This is conduit custom extended error handler",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Faizan ahmad",
+  "author": "Aion Support Team",
   "license": "ISC",
   "dependencies": {
     "prompts": "^2.3.2"
