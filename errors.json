@@ -1987,5 +1987,140 @@
       "ar": "فشلت إحدى عمليات التحقق من الصحة"
     },
     "status": "200"
+  },
+  "CIVIL_ID_FIRST_NAME_NOT_FOUND":{
+    "name": "CIVIL_ID_FIRST_NAME_NOT_FOUND",
+    "code": 8525,
+    "description": {
+      "en": "Civil id Given Names not found in scanning",
+      "ar": "لم يتم العثور على الأسماء المعطاة للهوية المدنية في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_LAST_NAME_NOT_FOUND":{
+    "name": "CIVIL_ID_LAST_NAME_NOT_FOUND",
+    "code": 8526,
+    "description": {
+      "en": "Civil id Surname not found in scanning",
+      "ar": "لم يتم العثور على لقب الهوية المدنية في المسح"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_GENDER_NOT_FOUND":{
+    "name": "CIVIL_ID_GENDER_NOT_FOUND",
+    "code": 8527,
+    "description": {
+      "en": "Civil id gender not found in scanning",
+      "ar": "لم يتم العثور على نوع الهوية المدنية في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_EXPIRY_NOT_FOUND":{
+    "name": "CIVIL_ID_EXPIRY_NOT_FOUND",
+    "code": 8528,
+    "description": {
+      "en": "Civil id expiry not found in scanning",
+      "ar": "لم يتم العثور على انتهاء صلاحية البطاقة المدنية في المسح"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_BIRTH_DATE_NOT_FOUND":{
+    "name": "CIVIL_ID_BIRTH_DATE_NOT_FOUND",
+    "code": 8529,
+    "description": {
+      "en": "Civil id date of birth not found in scanning",
+      "ar": "لم يتم العثور على تاريخ ميلاد البطاقة المدنية في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_NATIONALITY_NOT_FOUND":{
+    "name": "CIVIL_ID_NATIONALITY_NOT_FOUND",
+    "code": 8530,
+    "description": {
+      "en": "Civil id nationality not found in scanning",
+      "ar": "لم يتم العثور على جنسية البطاقة المدنية في المسح"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_NATIONALITY_CODE_NOT_FOUND":{
+    "name": "CIVIL_ID_NATIONALITY_CODE_NOT_FOUND",
+    "code": 8531,
+    "description": {
+      "en": "Civil id nationality code not found in scanning",
+      "ar": "لم يتم العثور على رمز الجنسية للبطاقة المدنية في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_SERIAL_NUMBER_NOT_FOUND":{
+    "name": "CIVIL_ID_SERIAL_NUMBER_NOT_FOUND",
+    "code": 8532,
+    "description": {
+      "en": "Civil id serial number not found in scanning",
+      "ar": "لم يتم العثور على الرقم التسلسلي للهوية المدنية في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_NUMBER_NOT_FOUND":{
+    "name": "CIVIL_ID_NUMBER_NOT_FOUND",
+    "code": 8532,
+    "description": {
+      "en": "Civil id number(other) not found in scanning",
+      "ar": "رقم الهوية المدنية (أخرى) غير موجود في المسح"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_NAME_NOT_FOUND":{
+    "name": "CIVIL_ID_NAME_NOT_FOUND",
+    "code": 8533,
+    "description": {
+      "en": "Civil id Surname And Given Names not found in scanning",
+      "ar": "لم يتم العثور على اللقب المدني والأسماء المعطاة في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "CIVIL_ID_PERSONAL_NUMBER_NOT_FOUND":{
+    "name": "CIVIL_ID_PERSONAL_NUMBER_NOT_FOUND",
+    "code": 8534,
+    "description": {
+      "en": "Civil id number(personal) not found in scanning",
+      "ar": "رقم الهوية المدنية (الشخصي) غير موجود في المسح"
+    },
+    "status": "200"
+  },
+  "PASSPORT_NAME_NOT_FOUND":{
+    "name": "PASSPORT_NAME_NOT_FOUND",
+    "code": 8535,
+    "description": {
+      "en": "Passport Surname And Given Names not found in scanning",
+      "ar": "لم يتم العثور على لقب جواز السفر والأسماء المعطاة في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "PASSPORT_GENDER_NOT_FOUND":{
+    "name": "PASSPORT_GENDER_NOT_FOUND",
+    "code": 8536,
+    "description": {
+      "en": "Passport gender not found in scanning",
+      "ar": "لم يتم العثور على جنس جواز السفر أثناء المسح"
+    },
+    "status": "200"
+  },
+  "PASSPORT_BIRTH_DATE_NOT_FOUND":{
+    "name": "PASSPORT_BIRTH_DATE_NOT_FOUND",
+    "code": 8537,
+    "description": {
+      "en": "Passport date of birth not found in scanning",
+      "ar": "تاريخ ميلاد جواز السفر غير موجود في المسح الضوئي"
+    },
+    "status": "200"
+  },
+  "PASSPORT_NATIONALITY_CODE_NOT_FOUND":{
+    "name": "PASSPORT_NATIONALITY_CODE_NOT_FOUND",
+    "code": 8538,
+    "description": {
+      "en": "Passport nationality code not found in scanning",
+      "ar": "لم يتم العثور على رمز جنسية جواز السفر في المسح الضوئي"
+    },
+    "status": "200"
   }
 }
